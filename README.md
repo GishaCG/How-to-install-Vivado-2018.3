@@ -36,6 +36,6 @@ Step 13: Click Install        //It will downloaded, Install and do Final Process
 
 Step 14: After installation open Terminal
 
-Step 15: source /tools/Xilinx/Vivado/20xx.x/settings64.sh
+Step 15: Type: $ source /tools/Xilinx/Vivado/20xx.x/settings64.sh (Need only once)
 
 Step 16: Type vivado >> Enter
