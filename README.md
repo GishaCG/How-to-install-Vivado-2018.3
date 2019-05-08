@@ -20,7 +20,8 @@ Step 7: Go to Files >> Downloads >> Right Click >> Open in Terminal
 
 Step 8: Type $ "sudo ./Xilinx_Vivado_SDK_Web_2018.3_1207_2324_Lin64.bin" 
 
-                                      // Installing in sudo otherwise it could not automatically create folder Xilinx in tools
+                                      // Installing in sudo otherwise it could not automatically 
+                                          create folder Xilinx in tools
 Step 9: It will auto automatically open Vivado Installer >> Next
 
 Step 10: Tick all 3 boxes (End user License, WebTalk & Third party) >> Next
