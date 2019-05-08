@@ -31,6 +31,11 @@ Step 11: Select the products needed >> Next
 Step 12: Tick Create program group entries and create desktop shortcut >> Next
 
 Step 13: Click Install        //It will downloaded, Install and do Final Processing
+                              // Mine was installed in tools/Xilinx
                               // Take approximately 1 hour
 
-Step 14: 
+Step 14: After installation open Terminal
+
+Step 15: source /tools/Xilinx/Vivado/20xx.x/settings64.sh
+
+Step 16: Type vivado >> Enter
